@@ -2,7 +2,7 @@
 #### Quality Assurance Analyst (Manual & Automation)
 I am a GNIIT graduate with specialized training in Software Testing from Besant Technologies, having 4+ years of valuable experience in ERP Software support within the Information Technology industry. My career focus is on ensuring the quality and reliability of software systems.
 
-Skills: Python / MySQL / Selenium / Behave / Allure / Jenkins / SoupUI / Postman / API Testing / WebDriver Automation
+Skills: Python / MySQL / Selenium / Behave / Allure / Jenkins / SoupUI / Postman / API Testing / WebDriver Automation / Jira / SDLC-Knowledge
 
 - 🔭 I’m currently working on Web Automation Project 
 - 🌱 I’m currently learning Automation Testing 
