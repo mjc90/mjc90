@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rahul Chatterjee
 #### Quality Assurance Analyst (Manual & Automation)
-I am a GNIIT graduate with specialized training in Software Testing from Besant Technologies, having 4+ years of valuable experience in ERP Software support within the Information Technology industry. My career focus is on ensuring the quality and reliability of software systems.
+Dedicated Quality Assurance Analyst with specialized training in Software Testing and 4+ years of experience in ERP   Software Support. Seeking a challenging role to leverage expertise in ensuring software quality and reliability in a dynamic IT environment.
 
 Skills: Python / MySQL / Selenium / Behave / Allure / Jenkins / SoupUI / Postman / API Testing / WebDriver Automation / Jira / SDLC-Knowledge
 
